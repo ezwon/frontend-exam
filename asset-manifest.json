@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/frontend-exam/static/css/main.60fe8774.css",
+    "main.js": "/frontend-exam/static/js/main.55159ff8.js",
+    "static/media/background.jpg": "/frontend-exam/static/media/background.dbc09f0d7db8fa81e13f.jpg",
+    "static/media/movie-title.png": "/frontend-exam/static/media/movie-title.5a52d515b2fb27dfa881.png",
+    "index.html": "/frontend-exam/index.html",
+    "main.60fe8774.css.map": "/frontend-exam/static/css/main.60fe8774.css.map",
+    "main.55159ff8.js.map": "/frontend-exam/static/js/main.55159ff8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60fe8774.css",
+    "static/js/main.55159ff8.js"
+  ]
+}
